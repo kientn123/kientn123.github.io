@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Kien Nguyen
+tagline:          'I am a computer science major graudating in May 2016. I love solving complex problem and trying out new techonologies'
+description:      'I like sharing knowlege with other people'
+url:              http://kientn123.github.io
+
+author:
+  name:           'Kien Nguyen'
+  url:            https://twitter.com/mdo
+
+paginate:         1
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/kientn123/kientn123.github.io
