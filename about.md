@@ -2,29 +2,18 @@
 layout: page
 title: About
 ---
-
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  "Spend your money on the things money can buy. Spend your time on the things money can't buy" - Haruki Murakami
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hi there! My name is Kien Nguyen, and I am a computer science junior at Iowa State University, graduating in May 2016.
 
-There are currently two themes built on Poole:
+I like solving complex problem, thinking logically and being smart. I love experimenting new backend frameworks, trying out new programming languages and tangling with CSS tricks.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+When I am not messing around with code or math, I usually spend time playing badminton, watching soccer, listening to music or reading book.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+*You can find me at:*
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* [Twitter](https://twitter.com/kientn123)
+* [Github](https://github.com/kientn123)
+* [GoodReads](https://www.goodreads.com/user/show/31697999-kien-nguyen)
