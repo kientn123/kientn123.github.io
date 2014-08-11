@@ -17,3 +17,5 @@ When I am not messing around with code or math, I usually spend time playing bad
 * [Twitter](https://twitter.com/kientn123)
 * [Github](https://github.com/kientn123)
 * [GoodReads](https://www.goodreads.com/user/show/31697999-kien-nguyen)
+* [HackerRank](https://www.hackerrank.com/kientn)
+* [Rosalind](http://rosalind.info/users/mathk41/)
